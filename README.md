@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [minishell](https://github.com/Expl0-it/minishell)
 
-- 🌱 I’m currently learning **C/C++, Java, CSS**
+- 🌱 I’m currently learning **C/C++, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
