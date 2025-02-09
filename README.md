@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C/C++, JavaScript**
 
+- 👨‍💻 Learn more about me on [My Portfolio](https://raniiyya.github.io/my_portfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raniiadavurova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raniiadavurova" height="30" width="40" /></a>
